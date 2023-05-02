@@ -2,6 +2,9 @@
 
 ## A turn based combat game
 
+**Instructions:**
+Download SpellFlameGame.rar. Extract and run SpellFlameGame.jar.
+
 **Description:**
 *Spellflame* is a basic roguelike turn based combat game in which the player will play as a *hero*. The player will get to 
 decide what kind of *spell* their hero starts with. The player can learn a maximum of three spells. The player will 
