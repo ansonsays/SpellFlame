@@ -1,0 +1,26 @@
+{
+  "EnemiesKilled": 15,
+  "CurrentHp": 45,
+  "MaxHp": 45,
+  "Stage": 15,
+  "Level": 10,
+  "SpellSwitch": false,
+  "SpellList": [
+    {
+      "Type": "Fire",
+      "Level": 5,
+      "Name": "Fireball"
+    },
+    {
+      "Type": "Lightning",
+      "Level": 7,
+      "Name": "Lightning Bolt"
+    },
+    {
+      "Type": "Wind",
+      "Level": 9,
+      "Name": "Wind Blast"
+    }
+  ],
+  "Name": "Test Hero"
+}

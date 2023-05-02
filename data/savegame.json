@@ -1,0 +1,42 @@
+{
+    "EnemiesKilled": 12,
+    "CurrentHp": 25,
+    "MaxHp": 41,
+    "Stage": 12,
+    "Level": 8,
+    "SpellSwitch": false,
+    "SpellList": [
+        {
+            "Type": "Lightning",
+            "Level": 4,
+            "Name": "Lightning Bolt"
+        },
+        {
+            "Type": "Fire",
+            "Level": 3,
+            "Name": "Fireball"
+        },
+        {
+            "Type": "Water",
+            "Level": 3,
+            "Name": "Water Cyclone"
+        }
+    ],
+    "Name": "Trak"
+}[
+    {
+        "Type": "Lightning",
+        "Level": 4,
+        "Name": "Lightning Bolt"
+    },
+    {
+        "Type": "Fire",
+        "Level": 3,
+        "Name": "Fireball"
+    },
+    {
+        "Type": "Water",
+        "Level": 3,
+        "Name": "Water Cyclone"
+    }
+]
